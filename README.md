@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...QQ
+- 🌱我是投掷者~~
+🏗 我寻求五件事：书籍、音乐、代码、溜溜球和想法。
+⚡主要项目：
+雷神之锤/大数据笔记
+阿帕奇/海豚施杜勒
+👉博客：个人博客
+📫 通过电子邮件通知我
 
 <!---
 ccygjl/ccygjl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
